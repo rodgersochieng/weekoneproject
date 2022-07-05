@@ -1,0 +1,89 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: inline;
+}
+a {
+    text-align: center;
+    padding: 15px 18px;
+    text-decoration: none;
+    font-size: 17px;
+}
+h1 {
+    color: blue;
+}
+h2 {
+    color: blue;
+}
+button {
+    color: blue;
+    margin left: 300px;
+}
+.lastpart { margin-left: 280px;
+    
+    text-align: center; padding: 50px;
+}
+.secondl {
+    margin-left: 150px;
+}
+.lastbutton {
+    margin-left: 1000px;
+}
+.esteemed {
+   margin-left: 460px;
+}
+.client {
+    margin-left:470px ;
+}
+.firstimage {
+    margin-left: 20x;
+    
+}
+.firstp {
+
+}
+.featuredprojects {
+    margin-left: 200px;
+    column-gap: 10px;
+    row-gap: 1000px;
+    table-layout: unset;
+}
+.edit1 {
+    margin-left: 100px;
+}
+.firstp {
+    margin-left: 70px;
+}
+.why {
+    margin-left: 200px;
+}
+.products [
+ margin-left: 200px;
+]
+.middle {
+    margin-left: 400px;
+}
+.nar {
+    margin-left: 500px;
+}
+.nar2 {
+    margin-left: 420px;
+}
+body {
+    background: #F2F2F2;
+    margin: 0;
+}
+.about {
+    margin-left: 250px;
+}
+.lastpart {
+    border-width: 10px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 0px;
+    padding: 10px;
+background-color: blue;
+}
